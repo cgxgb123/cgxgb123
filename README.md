@@ -9,7 +9,7 @@
 <img align="right" height="150" src="./assets/Add a subheading.gif"  /></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cgxgb123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cgxgb123)](https://git.io/streak-stats)
 </div>
 
 ###
