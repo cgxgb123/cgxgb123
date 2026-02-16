@@ -9,7 +9,9 @@
 <img align="right" height="150" src="./assets/Add a subheading.gif"  /></div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=cgxgb123)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=cgxgb123&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ###
